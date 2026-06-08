@@ -1,4 +1,4 @@
-# SUG Phone Accessories - Website
+# SPARK Phone Accessories - Website
 
 A professional, modern e-commerce catalog website for selling phone accessories in Buea, Cameroon.
 
@@ -58,7 +58,7 @@ All prices are in XAF (West African CFA Franc):
 2. Sign up with GitHub or email
 3. Drag & drop the project folder into Netlify
 4. Your site goes live instantly!
-5. You get a free subdomain (e.g., sug-accessories.netlify.app)
+5. You get a free subdomain (e.g., spark-accessories.netlify.app)
 6. Optional: Add a custom domain
 
 ### Option 2: GitHub Pages (Free)
